@@ -1,0 +1,47 @@
+h1{
+  color: brown;
+  text-align:left;
+
+}
+
+h2{
+  color: white;
+  text-align:left;
+
+}
+
+h3{
+  color: white;
+  text-align:left;
+
+}
+h4{
+  color: white;
+  text-align:left;
+
+}
+
+
+ul{
+  color: white;
+
+
+}
+
+table, th, td, tr {
+  border: 1px solid white;
+  text-align:center;
+  background-color: teal;
+  color: white;
+  margin: 30px;
+  padding: 20px;
+
+}
+
+body{
+  background-color: teal;
+  background-image: url("background_image.1.jpg");
+  background-position: center;
+  font-family: sans-serif, Arial;
+
+}
